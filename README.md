@@ -1,2 +1,2 @@
 # portfolio_pessoal
-Portfólio desenvolvido com HTML e CSS, desenvolvendo meus conhecimento na prática.
+Portfólio desenvolvido com HTML e CSS, desenvolvendo meus conhecimentos na prática.
